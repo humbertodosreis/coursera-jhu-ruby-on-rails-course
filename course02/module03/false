@@ -1,0 +1,4 @@
+Running via Spring preloader in process 535
+[1m[37m      invoke[0m  active_record
+[1m[31m    conflict[0m    db/migrate/20190913205108_create_todo_items.rb
+Another migration is already named create_todo_items: /todolist/db/migrate/20190913203238_create_todo_items.rb. Use --force to replace this migration or --skip to ignore conflicted file.
